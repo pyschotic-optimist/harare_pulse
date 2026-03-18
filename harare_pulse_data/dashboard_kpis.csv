@@ -1,0 +1,2 @@
+peak_avg_congestion,offpeak_avg_congestion,peak_avg_speed_kmh,offpeak_avg_speed_kmh,segments_monitored,total_readings,total_incidents,active_incidents,accidents,breakdowns,roadworks,flooding,total_road_km,total_segments,kombi_routes,data_days,generated_at
+0.619,0.225,25.8,47.6,3753,756000,120,18,34,46,26,14,514.5,3753,7,7,2026-03-17T15:05:23.384861

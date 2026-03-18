@@ -1,0 +1,13 @@
+artery,is_peak_hour,avg_congestion,avg_speed_kmh,reading_count
+Samora Machel Ave,1,0.8491,13.24,2921
+Julius Nyerere Way,1,0.8422,13.61,869
+Robert Mugabe Rd,1,0.823,14.66,2138
+Kwame Nkrumah Ave,1,0.7961,16.12,1146
+First Street,1,0.7748,17.27,320
+Second Street,1,0.7439,18.95,608
+Samora Machel Ave,0,0.3336,41.58,14090
+Julius Nyerere Way,0,0.317,42.5,4474
+Robert Mugabe Rd,0,0.3054,43.14,10799
+Kwame Nkrumah Ave,0,0.293,43.82,5825
+First Street,0,0.2874,44.14,1497
+Second Street,0,0.2637,45.45,2976

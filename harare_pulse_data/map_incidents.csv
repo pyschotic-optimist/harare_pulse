@@ -1,0 +1,121 @@
+incident_id,incident_type,severity,reported_at,resolved_at,lat,lon,description,status,severity_colour
+120,breakdown,medium,2026-03-17T20:52:00,2026-03-17T21:43:59.000799,-17.828471,31.047224,First Street Mall approach,Resolved,#BA7517
+42,breakdown,critical,2026-03-17T17:43:00,2026-03-17T19:15:49.400228,-17.831136,31.048405,Julius Nyerere Way / Kwame Nkrumah Ave,Resolved,#A32D2D
+118,flooding,medium,2026-03-17T17:26:00,2026-03-17T19:46:47.747451,-17.826335,31.045833,Kwame Nkrumah Ave / Leopold Takawira,Resolved,#BA7517
+77,accident,high,2026-03-17T16:00:00,2026-03-17T17:37:15.479139,-17.830821,31.053079,Samora Machel Ave near Town House,Resolved,#D85A30
+63,breakdown,low,2026-03-17T14:39:00,2026-03-17T16:05:50.160700,-17.833484,31.049996,Julius Nyerere Way southbound,Resolved,#1D9E75
+113,breakdown,critical,2026-03-17T14:08:00,,-17.8298,31.052118,Samora Machel Ave / Julius Nyerere Way junction,Active,#A32D2D
+15,roadwork,medium,2026-03-17T13:39:00,2026-03-17T15:56:16.515879,-17.835442,31.051305,Julius Nyerere Way southbound,Resolved,#BA7517
+36,accident,high,2026-03-17T12:17:00,2026-03-17T12:55:48.469202,-17.834235,31.045845,Robert Mugabe Rd / Second Street,Resolved,#D85A30
+105,breakdown,critical,2026-03-17T11:06:00,2026-03-17T13:50:07.113608,-17.829556,31.051784,Samora Machel Ave / Julius Nyerere Way junction,Resolved,#A32D2D
+94,accident,medium,2026-03-17T10:12:00,2026-03-17T12:09:17.088580,-17.827256,31.045739,Kwame Nkrumah Ave / Leopold Takawira,Resolved,#BA7517
+73,roadwork,high,2026-03-17T10:04:00,2026-03-17T12:17:06.846492,-17.829491,31.051537,Samora Machel Ave / Julius Nyerere Way junction,Resolved,#D85A30
+52,flooding,high,2026-03-17T10:01:00,,-17.834951,31.044659,Robert Mugabe Rd / Second Street,Active,#D85A30
+14,flooding,medium,2026-03-17T09:52:00,,-17.825308,31.047034,Kwame Nkrumah Ave / Leopold Takawira,Active,#BA7517
+110,breakdown,medium,2026-03-17T09:39:00,2026-03-17T10:50:35.134858,-17.824791,31.045475,Kwame Nkrumah Ave / Leopold Takawira,Resolved,#BA7517
+57,flooding,high,2026-03-17T09:21:00,,-17.827744,31.050772,Samora Machel Ave / Julius Nyerere Way junction,Active,#D85A30
+29,accident,critical,2026-03-17T07:37:00,2026-03-17T08:29:42.030927,-17.832273,31.053305,Samora Machel Ave near Town House,Resolved,#A32D2D
+10,roadwork,high,2026-03-16T20:16:00,2026-03-16T20:53:26.754134,-17.832187,31.050714,Julius Nyerere Way / Kwame Nkrumah Ave,Resolved,#D85A30
+48,roadwork,high,2026-03-16T18:25:00,,-17.829759,31.047886,First Street Mall approach,Active,#D85A30
+60,breakdown,low,2026-03-16T16:38:00,,-17.834778,31.045921,Robert Mugabe Rd / Second Street,Active,#1D9E75
+16,accident,medium,2026-03-16T15:35:00,2026-03-16T17:31:37.698152,-17.828003,31.048115,First Street Mall approach,Resolved,#BA7517
+30,accident,low,2026-03-16T14:53:00,2026-03-16T17:36:30.439803,-17.82671,31.045231,Kwame Nkrumah Ave / Leopold Takawira,Resolved,#1D9E75
+13,flooding,medium,2026-03-16T14:21:00,2026-03-16T15:20:14.422260,-17.832795,31.053501,Samora Machel Ave near Town House,Resolved,#BA7517
+31,breakdown,low,2026-03-16T13:30:00,2026-03-16T14:02:30.280181,-17.83414,31.0517,Julius Nyerere Way southbound,Resolved,#1D9E75
+23,breakdown,low,2026-03-16T12:39:00,2026-03-16T13:10:22.665622,-17.834459,31.051106,Julius Nyerere Way southbound,Resolved,#1D9E75
+53,breakdown,medium,2026-03-16T11:30:00,2026-03-16T13:02:10.408651,-17.830694,31.052971,Samora Machel Ave near Town House,Resolved,#BA7517
+67,breakdown,medium,2026-03-16T10:29:00,2026-03-16T11:55:54.205267,-17.828566,31.049557,Samora Machel Ave / First Street,Resolved,#BA7517
+58,flooding,critical,2026-03-16T10:19:00,2026-03-16T11:14:01.136831,-17.830937,31.048759,Julius Nyerere Way / Kwame Nkrumah Ave,Resolved,#A32D2D
+98,breakdown,critical,2026-03-16T06:01:00,2026-03-16T07:21:27.976526,-17.82972,31.049508,Julius Nyerere Way / Kwame Nkrumah Ave,Resolved,#A32D2D
+46,accident,low,2026-03-15T20:53:00,2026-03-15T23:51:59.730963,-17.827047,31.046268,Kwame Nkrumah Ave / Leopold Takawira,Resolved,#1D9E75
+38,breakdown,low,2026-03-15T20:40:00,2026-03-15T22:05:54.209585,-17.828559,31.045924,Kwame Nkrumah Ave / Leopold Takawira,Resolved,#1D9E75
+85,accident,high,2026-03-15T20:29:00,2026-03-15T21:00:43.516530,-17.83291,31.057237,Samora Machel Ave near Town House,Resolved,#D85A30
+80,roadwork,high,2026-03-15T20:15:00,2026-03-15T22:02:19.983940,-17.828489,31.04842,First Street Mall approach,Resolved,#D85A30
+39,accident,low,2026-03-15T20:02:00,2026-03-15T21:22:43.125321,-17.835028,31.049663,Julius Nyerere Way southbound,Resolved,#1D9E75
+35,breakdown,low,2026-03-15T18:39:00,2026-03-15T19:52:59.650607,-17.827507,31.049395,Samora Machel Ave / First Street,Resolved,#1D9E75
+119,roadwork,medium,2026-03-15T16:07:00,2026-03-15T17:37:47.463484,-17.832724,31.050422,Julius Nyerere Way southbound,Resolved,#BA7517
+69,accident,critical,2026-03-15T15:51:00,2026-03-15T17:50:17.443815,-17.831995,31.05204,Samora Machel Ave near Town House,Resolved,#A32D2D
+49,flooding,high,2026-03-15T15:49:00,2026-03-15T18:16:41.029756,-17.827783,31.05207,Samora Machel Ave / Julius Nyerere Way junction,Resolved,#D85A30
+24,accident,medium,2026-03-15T15:41:00,2026-03-15T16:14:37.892722,-17.831593,31.047349,First Street Mall approach,Resolved,#BA7517
+62,roadwork,low,2026-03-15T14:40:00,2026-03-15T17:04:40.603482,-17.826358,31.04576,Kwame Nkrumah Ave / Leopold Takawira,Resolved,#1D9E75
+11,roadwork,low,2026-03-15T14:10:00,,-17.827704,31.048545,Samora Machel Ave / First Street,Active,#1D9E75
+7,flooding,low,2026-03-15T13:15:00,2026-03-15T15:42:20.827448,-17.83432,31.050135,Julius Nyerere Way southbound,Resolved,#1D9E75
+32,accident,medium,2026-03-15T11:51:00,2026-03-15T13:57:45.904688,-17.82918,31.048182,First Street Mall approach,Resolved,#BA7517
+76,accident,critical,2026-03-15T11:44:00,2026-03-15T14:10:53.057538,-17.834367,31.047198,Robert Mugabe Rd / Second Street,Resolved,#A32D2D
+44,accident,low,2026-03-15T09:45:00,2026-03-15T10:19:25.503916,-17.835263,31.046252,Robert Mugabe Rd / Second Street,Resolved,#1D9E75
+81,accident,high,2026-03-15T09:33:00,2026-03-15T12:23:09.548179,-17.82889,31.053171,Samora Machel Ave / Julius Nyerere Way junction,Resolved,#D85A30
+104,accident,low,2026-03-15T08:30:00,,-17.82966,31.047404,First Street Mall approach,Active,#1D9E75
+95,roadwork,high,2026-03-15T07:52:00,,-17.832322,31.049535,Julius Nyerere Way southbound,Active,#D85A30
+4,roadwork,low,2026-03-15T07:40:00,2026-03-15T10:33:10.601769,-17.834128,31.046915,Robert Mugabe Rd / Second Street,Resolved,#1D9E75
+87,roadwork,critical,2026-03-15T07:09:00,2026-03-15T09:17:54.459445,-17.834379,31.049588,Julius Nyerere Way southbound,Resolved,#A32D2D
+61,roadwork,low,2026-03-15T07:03:00,2026-03-15T09:23:56.802216,-17.831579,31.053286,Samora Machel Ave near Town House,Resolved,#1D9E75
+72,breakdown,medium,2026-03-15T06:03:00,,-17.82833,31.046969,First Street Mall approach,Active,#BA7517
+40,roadwork,medium,2026-03-14T17:55:00,2026-03-14T19:05:02.309474,-17.830368,31.047814,First Street Mall approach,Resolved,#BA7517
+19,breakdown,high,2026-03-14T17:52:00,2026-03-14T19:12:04.846896,-17.829056,31.049792,Samora Machel Ave / First Street,Resolved,#D85A30
+111,breakdown,medium,2026-03-14T16:40:00,2026-03-14T17:34:59.965546,-17.834548,31.05239,Julius Nyerere Way southbound,Resolved,#BA7517
+107,accident,low,2026-03-14T14:42:00,2026-03-14T16:02:09.100626,-17.828044,31.051028,Samora Machel Ave / First Street,Resolved,#1D9E75
+78,flooding,high,2026-03-14T14:19:00,2026-03-14T15:58:42.961972,-17.827391,31.046164,Kwame Nkrumah Ave / Leopold Takawira,Resolved,#D85A30
+116,accident,medium,2026-03-14T14:17:00,2026-03-14T15:55:36.705975,-17.834036,31.048207,Robert Mugabe Rd / Second Street,Resolved,#BA7517
+71,roadwork,medium,2026-03-14T14:01:00,,-17.834779,31.049998,Julius Nyerere Way southbound,Active,#BA7517
+50,breakdown,low,2026-03-14T13:46:00,2026-03-14T14:47:17.432412,-17.829734,31.048493,Julius Nyerere Way / Kwame Nkrumah Ave,Resolved,#1D9E75
+54,breakdown,low,2026-03-14T13:39:00,2026-03-14T15:23:13.911861,-17.827029,31.045457,Kwame Nkrumah Ave / Leopold Takawira,Resolved,#1D9E75
+103,breakdown,high,2026-03-14T13:18:00,2026-03-14T14:00:17.872994,-17.833795,31.051436,Julius Nyerere Way southbound,Resolved,#D85A30
+25,breakdown,high,2026-03-14T12:55:00,2026-03-14T14:02:15.956275,-17.829475,31.052194,Samora Machel Ave / Julius Nyerere Way junction,Resolved,#D85A30
+33,breakdown,high,2026-03-14T12:46:00,2026-03-14T14:18:54.474036,-17.829902,31.051346,Samora Machel Ave / Julius Nyerere Way junction,Resolved,#D85A30
+28,breakdown,critical,2026-03-14T11:45:00,2026-03-14T12:39:07.936293,-17.834355,31.047845,Robert Mugabe Rd / Second Street,Resolved,#A32D2D
+51,breakdown,medium,2026-03-14T11:39:00,2026-03-14T12:24:56.756732,-17.825513,31.050401,Samora Machel Ave / First Street,Resolved,#BA7517
+84,flooding,low,2026-03-14T10:36:00,2026-03-14T13:10:49.582683,-17.836702,31.047465,Robert Mugabe Rd / Second Street,Resolved,#1D9E75
+106,roadwork,medium,2026-03-14T09:26:00,,-17.832541,31.047983,Julius Nyerere Way / Kwame Nkrumah Ave,Active,#BA7517
+86,roadwork,low,2026-03-14T06:13:00,2026-03-14T07:58:32.732289,-17.826005,31.045742,Kwame Nkrumah Ave / Leopold Takawira,Resolved,#1D9E75
+82,accident,low,2026-03-13T20:27:00,2026-03-13T21:48:45.094095,-17.831266,31.047168,Julius Nyerere Way / Kwame Nkrumah Ave,Resolved,#1D9E75
+45,breakdown,medium,2026-03-13T20:08:00,,-17.831409,31.054656,Samora Machel Ave near Town House,Active,#BA7517
+37,accident,low,2026-03-13T18:45:00,2026-03-13T19:40:30.235177,-17.831664,31.05402,Samora Machel Ave near Town House,Resolved,#1D9E75
+88,flooding,critical,2026-03-13T18:41:00,2026-03-13T19:28:37.154720,-17.831145,31.047381,First Street Mall approach,Resolved,#A32D2D
+117,flooding,medium,2026-03-13T18:20:00,2026-03-13T19:13:38.903178,-17.832706,31.055273,Samora Machel Ave near Town House,Resolved,#BA7517
+5,breakdown,low,2026-03-13T16:00:00,2026-03-13T18:29:12.641718,-17.832211,31.052072,Samora Machel Ave near Town House,Resolved,#1D9E75
+79,roadwork,low,2026-03-13T15:49:00,,-17.834447,31.050322,Julius Nyerere Way southbound,Active,#1D9E75
+83,accident,medium,2026-03-13T14:52:00,2026-03-13T17:05:15.218846,-17.826893,31.048556,Samora Machel Ave / First Street,Resolved,#BA7517
+102,accident,high,2026-03-13T14:13:00,2026-03-13T15:43:49.232799,-17.82578,31.042527,Kwame Nkrumah Ave / Leopold Takawira,Resolved,#D85A30
+100,breakdown,low,2026-03-13T14:10:00,2026-03-13T17:06:30.856934,-17.832608,31.045531,Robert Mugabe Rd / Second Street,Resolved,#1D9E75
+21,breakdown,critical,2026-03-13T13:42:00,2026-03-13T14:44:22.126520,-17.832183,31.054269,Samora Machel Ave near Town House,Resolved,#A32D2D
+115,roadwork,low,2026-03-13T13:14:00,2026-03-13T15:42:42.212294,-17.828126,31.051471,Samora Machel Ave / First Street,Resolved,#1D9E75
+74,breakdown,medium,2026-03-13T11:56:00,2026-03-13T12:40:06.559795,-17.832374,31.050419,Julius Nyerere Way / Kwame Nkrumah Ave,Resolved,#BA7517
+47,breakdown,critical,2026-03-13T10:53:00,2026-03-13T13:49:24.178496,-17.833787,31.051758,Julius Nyerere Way southbound,Resolved,#A32D2D
+27,flooding,medium,2026-03-13T06:39:00,2026-03-13T08:01:19.474735,-17.827992,31.050647,Samora Machel Ave / First Street,Resolved,#BA7517
+91,roadwork,low,2026-03-13T06:36:00,2026-03-13T09:10:09.882314,-17.826759,31.05008,Samora Machel Ave / First Street,Resolved,#1D9E75
+6,breakdown,low,2026-03-13T06:17:00,2026-03-13T07:05:38.751117,-17.825022,31.043562,Kwame Nkrumah Ave / Leopold Takawira,Resolved,#1D9E75
+114,accident,low,2026-03-12T19:41:00,2026-03-12T21:57:05.357927,-17.830472,31.048801,Julius Nyerere Way / Kwame Nkrumah Ave,Resolved,#1D9E75
+59,roadwork,low,2026-03-12T19:35:00,2026-03-12T21:48:00.743157,-17.828538,31.048776,Samora Machel Ave / First Street,Resolved,#1D9E75
+8,accident,critical,2026-03-12T19:21:00,2026-03-12T21:32:21.933629,-17.829954,31.046148,First Street Mall approach,Resolved,#A32D2D
+41,accident,critical,2026-03-12T19:10:00,2026-03-12T19:49:10.212494,-17.825705,31.051102,Samora Machel Ave / Julius Nyerere Way junction,Resolved,#A32D2D
+1,accident,low,2026-03-12T17:52:00,,-17.830182,31.05406,Samora Machel Ave / Julius Nyerere Way junction,Active,#1D9E75
+65,breakdown,high,2026-03-12T17:07:00,2026-03-12T19:49:13.537108,-17.828623,31.051629,Samora Machel Ave / Julius Nyerere Way junction,Resolved,#D85A30
+3,roadwork,high,2026-03-12T16:53:00,2026-03-12T17:49:53.738862,-17.828803,31.051522,Samora Machel Ave / First Street,Resolved,#D85A30
+96,breakdown,low,2026-03-12T16:15:00,2026-03-12T17:44:05.945081,-17.826999,31.04713,First Street Mall approach,Resolved,#1D9E75
+26,accident,medium,2026-03-12T13:16:00,2026-03-12T14:48:17.617329,-17.830463,31.048747,Julius Nyerere Way / Kwame Nkrumah Ave,Resolved,#BA7517
+18,breakdown,medium,2026-03-12T13:00:00,2026-03-12T15:35:50.023117,-17.830911,31.047252,Julius Nyerere Way / Kwame Nkrumah Ave,Resolved,#BA7517
+108,accident,low,2026-03-12T13:00:00,2026-03-12T14:45:53.716088,-17.834569,31.04736,Robert Mugabe Rd / Second Street,Resolved,#1D9E75
+20,accident,low,2026-03-12T12:39:00,,-17.83387,31.04658,Robert Mugabe Rd / Second Street,Active,#1D9E75
+55,breakdown,medium,2026-03-12T11:50:00,2026-03-12T12:25:10.185302,-17.833919,31.049855,Julius Nyerere Way southbound,Resolved,#BA7517
+90,roadwork,low,2026-03-12T11:49:00,2026-03-12T13:58:52.493012,-17.830318,31.046238,Julius Nyerere Way / Kwame Nkrumah Ave,Resolved,#1D9E75
+43,breakdown,low,2026-03-12T11:11:00,2026-03-12T12:05:47.836936,-17.828442,31.050486,Samora Machel Ave / First Street,Resolved,#1D9E75
+101,breakdown,low,2026-03-12T11:08:00,2026-03-12T12:03:26.610069,-17.8325,31.053266,Samora Machel Ave near Town House,Resolved,#1D9E75
+17,breakdown,critical,2026-03-12T09:06:00,2026-03-12T10:05:32.365018,-17.829783,31.050338,Samora Machel Ave / Julius Nyerere Way junction,Resolved,#A32D2D
+66,accident,medium,2026-03-12T07:47:00,2026-03-12T10:06:29.807576,-17.831426,31.049755,Julius Nyerere Way / Kwame Nkrumah Ave,Resolved,#BA7517
+34,accident,critical,2026-03-12T07:29:00,2026-03-12T08:40:07.352628,-17.831651,31.048849,Julius Nyerere Way / Kwame Nkrumah Ave,Resolved,#A32D2D
+68,breakdown,medium,2026-03-12T07:17:00,2026-03-12T08:56:06.465236,-17.835901,31.044615,Robert Mugabe Rd / Second Street,Resolved,#BA7517
+70,breakdown,medium,2026-03-12T07:00:00,2026-03-12T08:37:59.819414,-17.826996,31.046601,Kwame Nkrumah Ave / Leopold Takawira,Resolved,#BA7517
+99,roadwork,low,2026-03-11T18:55:00,2026-03-11T21:27:28.703049,-17.825969,31.051813,Samora Machel Ave / First Street,Resolved,#1D9E75
+22,accident,medium,2026-03-11T17:38:00,2026-03-11T18:27:57.692135,-17.82793,31.047229,Kwame Nkrumah Ave / Leopold Takawira,Resolved,#BA7517
+2,roadwork,low,2026-03-11T16:24:00,2026-03-11T17:40:38.211824,-17.831846,31.049246,Julius Nyerere Way / Kwame Nkrumah Ave,Resolved,#1D9E75
+89,breakdown,medium,2026-03-11T15:20:00,,-17.827656,31.051061,Samora Machel Ave / Julius Nyerere Way junction,Active,#BA7517
+109,accident,low,2026-03-11T14:55:00,,-17.831066,31.053799,Samora Machel Ave near Town House,Active,#1D9E75
+92,breakdown,low,2026-03-11T14:04:00,2026-03-11T15:42:14.905107,-17.834939,31.047957,Robert Mugabe Rd / Second Street,Resolved,#1D9E75
+9,roadwork,high,2026-03-11T13:50:00,2026-03-11T15:53:25.365191,-17.829771,31.052405,Samora Machel Ave / Julius Nyerere Way junction,Resolved,#D85A30
+97,breakdown,medium,2026-03-11T13:46:00,2026-03-11T15:39:20.086244,-17.828807,31.052212,Samora Machel Ave / Julius Nyerere Way junction,Resolved,#BA7517
+56,flooding,medium,2026-03-11T13:14:00,2026-03-11T15:59:02.786242,-17.829768,31.048755,First Street Mall approach,Resolved,#BA7517
+75,breakdown,low,2026-03-11T12:56:00,2026-03-11T13:31:14.569048,-17.827352,31.049297,Samora Machel Ave / First Street,Resolved,#1D9E75
+93,breakdown,critical,2026-03-11T12:35:00,2026-03-11T13:57:29.665286,-17.831079,31.053445,Samora Machel Ave near Town House,Resolved,#A32D2D
+12,roadwork,critical,2026-03-11T12:02:00,2026-03-11T14:35:27.332675,-17.835036,31.045657,Robert Mugabe Rd / Second Street,Resolved,#A32D2D
+64,breakdown,low,2026-03-11T11:29:00,2026-03-11T12:16:26.407421,-17.829011,31.048318,First Street Mall approach,Resolved,#1D9E75
+112,accident,high,2026-03-11T08:11:00,2026-03-11T09:57:14.659449,-17.829398,31.047245,First Street Mall approach,Resolved,#D85A30

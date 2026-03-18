@@ -1,0 +1,33 @@
+# Harare Pulse — .gitignore
+
+# Database (too large, regenerate with step2 + step3)
+*.db
+*.db-wal
+*.db-shm
+
+# Large generated CSVs (regenerate with step3 + step4)
+harare_pulse_data/traffic_summary.csv
+harare_pulse_data/map_roads.csv
+harare_pulse_data/map_nodes.csv
+
+# GeoJSON (regenerate with step1)
+harare_pulse_data/*.geojson
+
+# Power BI file (binary — hard to diff, optional to track)
+# Comment out the line below if you WANT to track the .pbix
+*.pbix
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / secrets (for Phase 2 API keys — never commit these)
+.env
+*.env
+secrets.py
+config_private.py

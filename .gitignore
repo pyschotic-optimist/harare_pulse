@@ -1,0 +1,14 @@
+*.db
+*.db-wal
+*.db-shm
+harare_pulse_data/traffic_summary.csv
+harare_pulse_data/map_roads.csv
+harare_pulse_data/map_nodes.csv
+harare_pulse_data/*.geojson
+*.pbix
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.env
+secrets.py
